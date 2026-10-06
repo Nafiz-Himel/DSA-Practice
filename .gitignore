@@ -1,0 +1,38 @@
+# --- C / C++ ---
+*.exe
+*.out
+*.app
+*.dSYM/
+*.obj
+*.o
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# --- Java ---
+*.class
+*.jar
+*.war
+*.ear
+hs_perfdata_*
+
+# --- IDEs & Editors (VS Code, JetBrains, etc.) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS Generated Files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
